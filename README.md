@@ -5,6 +5,8 @@ The Korean Analysis plugin integrates Lucene Korean analysis module into elastic
 
 In order to install the plugin, simply run:
 
+2.3.4 -> `bin/plugin install https://github.com/JaeHoonCha/elasticsearch-analysis-korean/releases/download/2.3.4/elasticsearch-analysis-korean-2.3.4.zip`
+
 2.3.0 -> `bin/plugin install https://github.com/mckennajp/elasticsearch-analysis-korean/releases/download/2.3.0/elasticsearch-analysis-korean-2.3.0.zip`
 
 2.2.1 -> `bin/plugin install https://github.com/mckennajp/elasticsearch-analysis-korean/releases/download/2.2.1/elasticsearch-analysis-korean-2.2.1.zip`
